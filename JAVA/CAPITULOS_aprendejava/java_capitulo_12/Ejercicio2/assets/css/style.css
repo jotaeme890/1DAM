@@ -1,0 +1,27 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 13 feb 2023, 16:43:14
+    Author     : perma
+*/
+
+:root{
+    --color-primary:#44f4f4;
+    --color-primary-contrast:#f0f0f0;
+}
+
+body{
+    background: var(--color-primary);
+}
+
+h1{
+    color: var(--color-primary-contrast);
+    text-align: center;
+}
+
+h2{
+    color: var(--color-primary-contrast);
+    text-align: center;
+}
